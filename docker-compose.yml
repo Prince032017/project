@@ -29,4 +29,4 @@ volumes:
   dp_profiles:
   dp_themes:
   dp_sites:
-  mysql_storage 
+  mysql_storage:
